@@ -1,13 +1,150 @@
-# 💫 About Me:
-Hi there! 👋 I'm **Akshay Kumar**, a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**. I enjoy building projects, exploring data, and continuously learning new technologies to solve real-world problems.<br><br>Currently, I'm focused on strengthening my skills in **Machine Learning, Data Analytics, Python, SQL, and modern software development** while building practical projects and growing as a developer.<br>
+<h1 align="center">Hi 👋, I'm Akshay Kumar</h1>
 
+<h3 align="center">
+Computer Science Student | AI & Machine Learning Enthusiast | Data Science Learner
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mandhan_aku03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mandhan_akshay1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshaymandhan31@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%F0%9F%92%BB;Exploring+AI%2C+Machine+Learning+%26+Data+Science+%F0%9F%A4%96;Building+projects+and+learning+every+day+%F0%9F%9A%80;Always+learning.+Always+building." alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Akshay-310&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Akshay-310&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akshay-310&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 👨‍💻 About Me
+
+I'm **Akshay Kumar**, a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
+
+I enjoy turning ideas and data into practical projects, exploring new technologies, and continuously strengthening my problem-solving skills.
+
+* 🔭 Currently working on **AI and Data Science projects**
+* 🌱 Learning and strengthening my skills in **Machine Learning, Data Analytics, SQL, and modern development tools**
+* 💡 Interested in **AI, Machine Learning, Data Engineering, and Software Development**
+* 🛠️ I enjoy learning by building and solving real-world problems
+* 🎯 Goal: To grow into a skilled **AI/Data professional and software developer**
+
+---
+
+## 🚀 Featured Projects
+
+### 🌦️ AQI Predictor
+
+A Machine Learning-based project focused on predicting and analyzing **Air Quality Index (AQI)** using real-world data and an automated ML workflow.
+
+**Tech:** Python · Machine Learning · Pandas · Scikit-learn · TensorFlow · Hopsworks · GitHub Actions · Streamlit
+
+---
+
+### 🌐 Smart Network Monitoring System
+
+A system designed to monitor network activity and system information using Python networking and monitoring tools.
+
+**Tech:** Python · Socket Programming · Scapy · Psutil · Flask · SQLite · Wireshark
+
+---
+
+### ✍️ Handwritten Character Recognition
+
+A Machine Learning project focused on recognizing handwritten characters using data processing and deep learning techniques.
+
+**Tech:** Python · TensorFlow · Keras · NumPy · Pandas
+
+---
+
+# 🧰 Tech Stack
+
+## 💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
+
+</p>
+
+## 🤖 AI, Machine Learning & Data Science
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+</p>
+
+## 🌐 Web & Application Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,flutter" />
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+## 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
+</p>
+
+## ⚙️ Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+🤖 Machine Learning & Deep Learning
+📊 Data Analytics & Visualization
+🗄️ SQL & Database Systems
+⚙️ ML Pipelines & MLOps
+☁️ Cloud & Data Engineering Technologies
+```
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://instagram.com/mandhan_aku03">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Mandhan_akshay1">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:akshaymandhan31@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akshay-310&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>"The best way to learn is to build."</i> 🚀
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
